@@ -1,0 +1,5 @@
+c:\Users\WeeksDev\documents\visual studio 2012\Projects\HomeCast\HomeCast-ExtJS\bin\HomeCast-ExtJS.dll
+c:\Users\WeeksDev\documents\visual studio 2012\Projects\HomeCast\HomeCast-ExtJS\bin\HomeCast-ExtJS.pdb
+c:\Users\WeeksDev\documents\visual studio 2012\Projects\HomeCast\HomeCast-ExtJS\obj\Debug\HomeCast-ExtJS.csprojResolveAssemblyReference.cache
+c:\Users\WeeksDev\documents\visual studio 2012\Projects\HomeCast\HomeCast-ExtJS\obj\Debug\HomeCast-ExtJS.dll
+c:\Users\WeeksDev\documents\visual studio 2012\Projects\HomeCast\HomeCast-ExtJS\obj\Debug\HomeCast-ExtJS.pdb

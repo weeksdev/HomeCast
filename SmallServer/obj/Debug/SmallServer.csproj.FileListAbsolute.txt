@@ -1,0 +1,10 @@
+C:\Users\WeeksDev\documents\visual studio 2012\Projects\BasicWebServerCSharp\SmallServer\bin\Debug\SmallServer.dll
+C:\Users\WeeksDev\documents\visual studio 2012\Projects\BasicWebServerCSharp\SmallServer\bin\Debug\SmallServer.pdb
+C:\Users\WeeksDev\documents\visual studio 2012\Projects\BasicWebServerCSharp\SmallServer\obj\Debug\SmallServer.csprojResolveAssemblyReference.cache
+C:\Users\WeeksDev\documents\visual studio 2012\Projects\BasicWebServerCSharp\SmallServer\obj\Debug\SmallServer.dll
+C:\Users\WeeksDev\documents\visual studio 2012\Projects\BasicWebServerCSharp\SmallServer\obj\Debug\SmallServer.pdb
+C:\Users\WeeksDev\Documents\Visual Studio 2012\Projects\HomeCast\SmallServer\bin\Debug\SmallServer.dll
+C:\Users\WeeksDev\Documents\Visual Studio 2012\Projects\HomeCast\SmallServer\bin\Debug\SmallServer.pdb
+C:\Users\WeeksDev\Documents\Visual Studio 2012\Projects\HomeCast\SmallServer\obj\Debug\SmallServer.csprojResolveAssemblyReference.cache
+C:\Users\WeeksDev\Documents\Visual Studio 2012\Projects\HomeCast\SmallServer\obj\Debug\SmallServer.dll
+C:\Users\WeeksDev\Documents\Visual Studio 2012\Projects\HomeCast\SmallServer\obj\Debug\SmallServer.pdb
